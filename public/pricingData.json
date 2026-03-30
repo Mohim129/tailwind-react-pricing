@@ -1,0 +1,50 @@
+{
+  "pricingOptions": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$29.99/month",
+      "description": "Perfect for beginners who want access to essential gym facilities.",
+      "features": [
+        "Access to gym floor (Mon-Fri, 8am-8pm)",
+        "Locker room access",
+        "Free parking",
+        "1 free fitness consultation",
+        "Access to cardio and weight equipment",
+        "Complimentary water station"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$49.99/month",
+      "description": "Our most popular plan, ideal for regular gym-goers who want flexibility and group classes.",
+      "features": [
+        "24/7 gym access",
+        "Unlimited group classes (yoga, spin, HIIT)",
+        "Locker room with towel service",
+        "Free parking + guest pass (1/month)",
+        "Monthly body composition analysis",
+        "Nutrition workshops (quarterly)",
+        "Member appreciation events"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$79.99/month",
+      "description": "Full experience with personal training and premium amenities for dedicated athletes.",
+      "features": [
+        "All Standard features",
+        "2 personal training sessions per month",
+        "Access to sauna and steam room",
+        "Discounts on supplements and gear (15%)",
+        "Unlimited guest passes",
+        "Priority class booking",
+        "Monthly sports massage",
+        "Private locker rental",
+        "Complimentary smoothie bar (1/month)"
+      ]
+    }
+  ]
+}
